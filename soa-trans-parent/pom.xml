@@ -20,7 +20,7 @@
         <version>2.2.0.RELEASE</version>
     </parent>
     <properties>
-        <commons.version>2.6</commons.version>
+        <commons.version>2.14.0</commons.version>
     </properties>
     <dependencies>
         <!-- spring包 -->
